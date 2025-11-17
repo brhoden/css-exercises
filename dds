@@ -1,0 +1,220 @@
+[33mcommit aaff05fb6f5d391a3ee818032f36d8a906cfe495[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: brhoden <rhoden_7@msn.com>
+Date:   Sun Nov 16 21:00:12 2025 -0800
+
+    Completed Intro to CSS 04
+
+[33mcommit c70bbbd38f2624052c20edd384e407890139aa9e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: brhoden <rhoden_7@msn.com>
+Date:   Sun Nov 16 20:44:47 2025 -0800
+
+    Complete Intro to CSS 03
+
+[33mcommit 39ab06afc3bfa3c34e3865dc5529150496ab34a4[m
+Author: brhoden <rhoden_7@msn.com>
+Date:   Sun Nov 16 20:25:20 2025 -0800
+
+    Update CSS intro #1 and 2
+
+[33mcommit 77df57bf712f11f55ae3c272bb1c81cf85e71943[m
+Author: Zunaid Hassan <67002737+zunaid-hassan@users.noreply.github.com>
+Date:   Tue Oct 28 05:18:55 2025 +0800
+
+    README.md: Separate fork and clone instructions for clarity (#749)
+
+[33mcommit 5b2accc784732305db28008035b8c3f794cf77d5[m
+Author: Tobi <olatiseoluwatobiloba@gmail.com>
+Date:   Fri Oct 24 16:30:37 2025 +0100
+
+    02-margin-and-padding: Remove pixel-specific self check (#746)
+    
+    Pixel matching not the point of the exercise
+
+[33mcommit 9652c38cd983a57b5b735ace357e03efe343529b[m
+Author: André Carvalhais <carvalhais1981@gmail.com>
+Date:   Thu Oct 23 18:36:25 2025 -0300
+
+    README: Update recommended VS Code dev server extension (#745)
+    
+    Stale since curriculum was previously updated to recommend Live Preview over Live Server.
+
+[33mcommit 376b87a569d7ab975955c71adbe4570c9648957b[m
+Author: Zunaid Hassan <67002737+zunaid-hassan@users.noreply.github.com>
+Date:   Sat Oct 18 20:11:30 2025 +0800
+
+    Improve clarity on purpose of self-check section (#736)
+
+[33mcommit 304aeec0546e400e4dead6417fdc5cbe2b9906a6[m
+Author: mao-sz <122839503+mao-sz@users.noreply.github.com>
+Date:   Sun Sep 14 17:26:50 2025 +0100
+
+    Clarify language in repo README about solutions (#724)
+
+[33mcommit 522796f81cde6df2fa189e08d4c1b4545b08ee69[m
+Author: 2025-HD-BC <gert@semper-fi.co.za>
+Date:   Thu Sep 11 15:18:43 2025 +0200
+
+    Chaining Selectors: Remove stale instructions (#709)
+    
+    Some content was changed in a previous PR but missed some stuff, leaving some confusing instructions and comments in.
+
+[33mcommit fff6287201092ac134ceaa021c923d375380c8fa[m
+Author: Ckyever Gaviola <ckyeverg@gmail.com>
+Date:   Thu Sep 4 21:14:13 2025 +1000
+
+    intro-to-css: Add placeholder comment to empty style.css files (#723)
+    
+    Placeholder comment was added to intro exercise 4 but not the others
+
+[33mcommit b22189bfa34497f0ab1814c67495841ec967c685[m
+Merge: fe95b46 e1b7bc5
+Author: Austin <austinpmason@gmail.com>
+Date:   Wed May 14 18:35:33 2025 +0100
+
+    Merge pull request #678 from dahans1/fix-foundations-doc
+    
+    01-cascade-fix: Fix typo in README
+
+[33mcommit e1b7bc56cd018f6f9652fee0687ced6b05e06de1[m
+Author: San Dahan <sandahan007@gmail.com>
+Date:   Tue May 13 19:51:59 2025 -0400
+
+    01-cascade-fix: Fix typo in README
+    
+    This is not the 'final' exercise for CSS Foundations, as README suggests.
+    Because '01-margin-and-padding-1' and '02-margin-and-padding-2' are the
+    last exercises for CSS Foundations, this README's wording needs to be
+    updated for accuracy.
+
+[33mcommit fe95b463284982516875bda0dc888fd869a69c94[m
+Author: Fran Mesa <120692857+xFranMe@users.noreply.github.com>
+Date:   Sun Oct 20 15:10:34 2024 +0200
+
+    01-cascade-fix: Clarify multiple solutions in README (#610)
+    
+    README previously said all possible solutions were provided which is inaccurate and not desirable either.
+
+[33mcommit cb22cf12d5a08dfc11de84f812f1181dc6ecc779[m
+Author: MONK <169875752+devnchill@users.noreply.github.com>
+Date:   Tue Oct 8 17:49:30 2024 +0530
+
+    Responsive Holy Grail: Clarify self check points (#609)
+    
+    Not all rows would grow taller on narrowing.
+
+[33mcommit d86329d0eaba619c459df32fe44946930ed15665[m
+Author: Sahil Garje <139825271+oceanthunder@users.noreply.github.com>
+Date:   Mon Oct 7 03:05:03 2024 +0530
+
+    Restructure repo into courses and groups (#604)
+    
+    Original repo structure was prone to people forgetting exactly what was instructed, leading
+    them to do the wrong exercises (especially when they have momentum from studying).
+    
+    The new structure puts exercises in groups (based around their respective lesson assignments) which are in turn placed in course folders. More intuitive organisation.
+
+[33mcommit d299f387eefdb84b1fe7c79d8cabe2797e075634[m
+Author: Namit Arjaria <89105989+depleur@users.noreply.github.com>
+Date:   Mon Jul 8 23:12:08 2024 +0530
+
+    fix: Update grouping selectors solution to match desired outcome image (#566)
+    
+    Signed-off-by: Namit Arjaria <namitarjaria25@gmail.com>
+
+[33mcommit 54a2c47818ebdb16b64732fafe539159cfa6f47a[m
+Author: mat-95 <98151215+mat-95@users.noreply.github.com>
+Date:   Thu Jul 4 13:35:15 2024 +0300
+
+    06 Flex layout: Fix spacing in desired outcome image (#571)
+    
+    Update desired-outcome.png to match solution code.
+    
+    Close #570
+
+[33mcommit 38a2af29a6a0da5e3e932f0d918919b91802fa51[m
+Author: Dmitry Tolmatov <62383010+incandesc3nce@users.noreply.github.com>
+Date:   Sun Jun 16 04:31:13 2024 +0700
+
+    05-descendant-combinator remove child combinator (#561)
+    
+    Child combinator is not considered as a descendant combinator, therefore it should not be listed as a possible combinator.
+
+[33mcommit 4bd42dedc401c50fd6e4cb3e1897468d2f9e43dc[m
+Merge: 13a9c14 426f1c8
+Author: Austin Sullivan <wise.king.sullyman@gmail.com>
+Date:   Tue Jun 11 14:34:18 2024 -0400
+
+    Merge pull request #552 from akash-shaw/update
+    
+    02-margin-and-padding-2: Updated solution.css and desired-outcome.png to solve Issue#545
+
+[33mcommit 426f1c8d4c0155bb0d41d5d95679780cc86ab8cb[m
+Author: Akash Shaw <136084773+akash-shaw@users.noreply.github.com>
+Date:   Tue Jun 11 13:32:51 2024 +0530
+
+    02-margin-and-padding-2: Updated solution.css and desired-outcome.png to solve Isuue#545
+
+[33mcommit 13a9c14adbd0ca0845024f2a66cff3f18a696d52[m
+Merge: aa74e30 a31b33c
+Author: Josh Smith <jmsmith1018@gmail.com>
+Date:   Sat May 4 14:29:23 2024 -0600
+
+    Merge pull request #540 from JoshDevHub/update_PR_note_style
+    
+    README: Change style of PR note
+
+[33mcommit a31b33ce088a99b25ccce41113f15484afedafdd[m
+Author: Josh Smith <jmsmith1018@gmail.com>
+Date:   Sat May 4 13:28:27 2024 -0700
+
+    Update other reference to PRing solutions
+
+[33mcommit a7ba84a94bd2dce23390c931ffa1128b88afd0e3[m
+Author: Josh Smith <jmsmith1018@gmail.com>
+Date:   Sat May 4 13:19:52 2024 -0700
+
+    Change style of PR note
+
+[33mcommit aa74e3089d3f39370cb37c77915a9c1b6f484af8[m
+Author: zhangsherry <57990113+zhangsherry@users.noreply.github.com>
+Date:   Thu Apr 25 19:36:22 2024 +0800
+
+    Fix issue left by commit 061fe0a: delete margin (#536)
+    
+    Since commit 061fe0a replaced the margin with gap in solution.css, the margin should be deleted in style.css as well.
+
+[33mcommit c8a75cbf2ad8b8820c3c3c2840bce38ab5f2ff96[m
+Author: zhangsherry <57990113+zhangsherry@users.noreply.github.com>
+Date:   Thu Apr 25 19:33:52 2024 +0800
+
+    Update README.md for consistency with solution.css (#537)
+    
+    Since commit 65b831b changed `container`'s padding,
+    the instruction of padding in `README.md` should be changed as well.
+
+[33mcommit 0bae060fb1f881f413ff6f3136fe618464d86d0a[m
+Author: Brian Lister <brian@fabulousgeek.me>
+Date:   Sun Apr 21 10:45:50 2024 -0500
+
+    fix: remove superfluous line of code in solution (#528)
+
+[33mcommit 77d8b503b369712a57ed3c531759b19d48aa0003[m
+Merge: 4c25233 ba0cc68
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 20 08:08:49 2024 -0400
+
+    Merge pull request #493 from fabulousgk/fabulousgk/issue465
+    
+    README: add more info about git workflow and not to open PR
+
+[33mcommit 4c252336bbc7a539ede1aa31923390ec3229e98e[m
+Author: Long Mai <122837733+looonnng@users.noreply.github.com>
+Date:   Fri Mar 15 03:49:31 2024 -0500
+
+    03-grouping-selectors rephrase README paragraph (#505)
+
+[33mcommit 65b831bd01c7e574addb7853fd9d0283f59df525[m
+Author: coder09dev <154410453+coder09dev@users.noreply.github.com>
+Date:   Wed Mar 13 20:20:48 2024 +0530
+
+    07-flex-layout-2
